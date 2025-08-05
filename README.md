@@ -1,11 +1,14 @@
 # UIGraphicsImageRenderer-vs-UIImage
 **UIImage**
-UIImage的使用方法如下：https://developer.apple.com/documentation/uikit/uiimage?language=objc  
+UIImage的使用方法如下：  
+https://developer.apple.com/documentation/uikit/uiimage?language=objc  
 **UIGraphicsImageRenderer**
-UIGraphicsImageRenderer的使用方法如下：https://developer.apple.com/documentation/uikit/uigraphicsimagerenderer?language=objc
+UIGraphicsImageRenderer的使用方法如下：  
+https://developer.apple.com/documentation/uikit/uigraphicsimagerenderer?language=objc
 
 ## 项目说明
-我这边clone了一下UIGraphicsImageRenderer的项目：https://github.com/eryshkov/Core-Graphics-PH   
+我这边clone了一下UIGraphicsImageRenderer的项目：  
+https://github.com/eryshkov/Core-Graphics-PH   
 然后用UIImage重写了一下。生成了两个同样可以显示矩形、圆形、棋盘、旋转方块、线条、文本+图像的app。  
 这两个app显示  
 ![image](https://github.com/user-attachments/assets/1a190860-5c42-4a2a-858d-5d8d8f8003f2)
